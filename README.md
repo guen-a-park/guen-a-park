@@ -17,3 +17,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
+matlab 추가 어디?
+라스베리파이, 아두이노, 텐서플로우, keras...,git
