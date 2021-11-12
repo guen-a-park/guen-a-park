@@ -13,5 +13,3 @@
   <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=Markdown&logoColor=white"/></a>&nbsp
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guen-a-park&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
